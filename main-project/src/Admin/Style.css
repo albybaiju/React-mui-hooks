@@ -1,0 +1,40 @@
+.container{
+    width: 100%;
+    height: 70vh;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.district-box{
+    padding: 20px;
+    border: 1px solid;
+
+
+}
+.row{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.place-box{
+    padding: 20px;
+    border: 1px solid;
+    
+}
+
+.cat-box{
+    border: 1px solid;
+
+
+}
+
